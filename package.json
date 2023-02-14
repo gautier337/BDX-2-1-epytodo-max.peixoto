@@ -1,0 +1,26 @@
+{
+  "name": "b-web-200-bdx-2-1-epytodo-max.peixoto",
+  "version": "1.0.0",
+  "description": "epytodo project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2026/B-WEB-200-BDX-2-1-epytodo-max.peixoto.git"
+  },
+  "author": "Max Peixoto Gautier Bonhur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2026/B-WEB-200-BDX-2-1-epytodo-max.peixoto/issues"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3"
+  },
+  "homepage": "https://github.com/EpitechPromo2026/B-WEB-200-BDX-2-1-epytodo-max.peixoto#readme"
+}
